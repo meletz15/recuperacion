@@ -1,0 +1,223 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: gray;
+  }
+  
+  .intro img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .html {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: aqua;
+  }
+  
+  .html img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .css {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: yellow;
+  }
+  
+  .css img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .etiquetahtml{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: yellow;
+  }
+
+  .etiquetahtml img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .etiquetabody{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: gray;
+  }
+
+  .etiquetabody img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .etiquetah{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: red;
+  }
+
+  .etiquetah img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .etiquetap{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: gray;
+  }
+
+  .etiquetap img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .etiquetaa{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: yellow;
+  }
+
+  .etiquetaa img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .etiquetaimg{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: blue;
+  }
+
+  .etiquetaimg img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  
+  .etiquetahead{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: chocolate;
+  }
+
+  .etiquetahead img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  
+  .etiquetatitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: chartreuse;
+  }
+
+  .etiquetatitle img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+    height: 300px;
+    border-radius: 10px;
+  }
+
+  .java{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    padding: 5%;
+    background-color: chartreuse;
+  }
+
+  .java img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+  }
